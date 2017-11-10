@@ -32,7 +32,8 @@
       
     for (NSInteger i = 0; i < 9; i++) {
         
-        [_pics addObject:@"https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1466066885&di=7e3dc96da227dc591efa1ec82e24396e&src=http://www.one101.com/htm/fengjxsh/tp/fh/wu-long-shan/da/62.jpg"];
+       [_pics addObject:@"https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1466066885&di=7e3dc96da227dc591efa1ec82e24396e&src=http://www.one101.com/htm/fengjxsh/tp/fh/wu-long-shan/da/62.jpg"];
+       // [_pics addObject:@"tangwei2webp"];
         UIImageView *imageView = [[UIImageView alloc]initWithFrame:CGRectMake(x, y, w, h)];
         imageView.tag = i;
         imageView.userInteractionEnabled = YES;

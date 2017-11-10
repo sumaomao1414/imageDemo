@@ -72,6 +72,7 @@
 		2E2D64E91D13D74300938194 /* imageDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = imageDemoUITests.m; sourceTree = "<group>"; };
 		2E2D64EB1D13D74300938194 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2E2D65271D17752C00938194 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		2E4179381DF17022008CFC4A /* tangwei2webp.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = tangwei2webp.webp; sourceTree = "<group>"; };
 		2E44B0FD1D17C3CE00004C09 /* CALayer+YYAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CALayer+YYAdd.h"; sourceTree = "<group>"; };
 		2E44B0FE1D17C3CE00004C09 /* CALayer+YYAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CALayer+YYAdd.m"; sourceTree = "<group>"; };
 		2E44B0FF1D17C3CE00004C09 /* NSString+YYAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+YYAdd.h"; sourceTree = "<group>"; };
@@ -168,6 +169,7 @@
 				2E2D64CB1D13D74300938194 /* ViewController.m */,
 				2E2D64CD1D13D74300938194 /* Main.storyboard */,
 				2E2D64D01D13D74300938194 /* Assets.xcassets */,
+				2E4179381DF17022008CFC4A /* tangwei2webp.webp */,
 				2E2D64D21D13D74300938194 /* LaunchScreen.storyboard */,
 				2E2D64D51D13D74300938194 /* Info.plist */,
 				2E2D64C41D13D74300938194 /* Supporting Files */,
